@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.17)  7 FEB 2025 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.17)  7 FEB 2025 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,20 +399,20 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
@@ -441,16 +441,16 @@ e
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 14596 strings out of 478512
- 311501 string characters out of 5853626
- 645487 words of memory out of 5000000
- 32347 multiletter control sequences out of 15000+600000
+ 14626 strings out of 478512
+ 311907 string characters out of 5853626
+ 645606 words of memory out of 5000000
+ 32377 multiletter control sequences out of 15000+600000
  404027 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,7n,122p,385b,7003s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,7n,122p,385b,6991s stack positions out of 5000i,500n,10000p,200000b,80000s
 <
 c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (1 page, 31756 bytes).
+Output written on main.pdf (1 page, 31940 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
